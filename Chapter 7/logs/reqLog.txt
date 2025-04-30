@@ -1,0 +1,33 @@
+2025-04-29 09:27:34	0a52c943-ed60-43d1-b066-7b0af0d56b78	/new-page	GET
+2025-04-29 09:27:34	26471084-c1d9-41f2-95e2-74918eb4fa97	/css/style.css	GET
+2025-04-29 09:27:34	34047656-2448-4aa6-a387-3f8ae693ed72	/img/img1.jpg	GET
+2025-04-29 09:27:34	65abd565-4bc3-410e-bfce-09909d3e1e64	/favicon.ico	GET
+2025-04-29 09:30:11	fb8ce154-9212-4ecd-9840-f1bbe82b815e	/new-page	GET
+2025-04-29 09:31:04	37804d5a-6e9c-4ca0-bf62-984d5571464a	/new-page	GET
+2025-04-29 09:31:04	79ecd8f0-1190-491b-91ba-dfd4eedf3927	/css/style.css	GET
+2025-04-29 09:31:04	d2c7fadd-3906-4db7-94d0-3adbb4b226f4	/img/img1.jpg	GET
+2025-04-29 09:31:09	570abadd-e8cd-4f7c-a14e-c5c1ece70993	/new-page.html	GET
+2025-04-29 09:31:09	9127654b-6061-47a1-9b27-a1446fc7f564	/css/style.css	GET
+2025-04-29 09:31:09	fe37ebb9-dfe8-4b3e-97ac-71ede8ba0fcf	/img/img1.jpg	GET
+2025-04-29 09:31:45	eb75ee13-00f3-4f75-91b0-5d94ead97070	/	GET
+2025-04-29 09:31:45	c884704b-9417-4566-9201-6fd6c739e2b8	/css/style.css	GET
+2025-04-30 14:28:42	56052933-d026-4d25-8ab4-d2873e2f809b	GET	undefined	/index
+2025-04-30 14:28:43	836bc722-eb8a-4e1e-88e9-e7b04553f893	GET	undefined	/index
+2025-04-30 14:28:43	35205c39-23d2-47a5-ae8b-76dba5747fcb	GET	undefined	/css/style.css
+2025-04-30 14:29:16	bf044ef1-c9b1-44ea-ae2a-1e519291116d	GET	undefined	/index.html
+2025-04-30 14:29:16	be9f3772-9eb1-4d1a-8104-46c4710bd57c	GET	undefined	/css/style.css
+2025-04-30 14:30:03	f4a56c2b-6a0f-473a-aa9b-1f81179ea892	GET	undefined	/
+2025-04-30 14:30:03	83364e05-d4c7-48cc-96b9-fab89e2d1c97	GET	undefined	/
+2025-04-30 14:30:03	05e56676-54ed-453e-acae-ffcb36d5f8d2	GET	undefined	/css/style.css
+2025-04-30 14:30:46	87d1b105-1fb5-4a71-92e4-5dfc1cf1fd1b	GET	undefined	/
+2025-04-30 14:30:46	a045a135-f757-433f-bdb2-395082bb7388	GET	undefined	/css/style.css
+2025-04-30 14:30:47	525d5dab-426e-4d0d-8dcf-950e21fce003	GET	undefined	/
+2025-04-30 14:30:47	ae03af3b-6a86-4586-8f29-6a504476e1bb	GET	undefined	/css/style.css
+2025-04-30 14:30:54	c88f338c-70e9-409a-b934-ab2051609bf7	GET	undefined	/
+2025-04-30 14:30:54	1ed59c22-9f72-4dfe-aa4c-859917759121	GET	undefined	/css/style.css
+2025-04-30 14:31:01	aaf8bbf5-5038-4f52-b448-19a3e40aee29	GET	undefined	/index
+2025-04-30 14:31:01	06331dbf-2f15-462e-b2a5-25a87944afad	GET	undefined	/css/style.css
+2025-04-30 14:31:55	9c2a4fdc-8f3f-4a1f-ae49-510866c987c5	GET	undefined	/
+2025-04-30 14:31:55	78489b56-7aa8-4e8b-b3bd-6310168d98dc	GET	undefined	/css/style.css
+2025-04-30 14:47:23	abd010af-7180-4fce-a7a3-f9694630555a	GET	undefined	/
+2025-04-30 14:47:24	446e7c5d-9ed1-4305-880b-a039e77c8931	GET	undefined	/css/style.css
